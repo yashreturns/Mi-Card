@@ -1,4 +1,4 @@
-# Mi Card - - How to Build Beautiful UIs with Flutter Widgets
+# Mi Card - How to Build Beautiful UIs with Flutter Widgets
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
